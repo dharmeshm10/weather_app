@@ -33,6 +33,6 @@ The app uses Clean code architecture along with Bloc pattern to have a unidirect
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/4641505/dharmesh-mansata" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/4641505/dharmesh-mansata" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/4641505/dharmesh-mansata" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/4641505/dharmesh-mansata" height="30" width="40" /></a>
 <a href="https://medium.com/@dharmeshm10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@dharmeshm10" height="30" width="40" /></a>
 </p>
