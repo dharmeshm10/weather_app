@@ -37,7 +37,6 @@ dependencies:
   cupertino_icons: ^1.0.2
   pedantic: ^1.11.1
   shared_preferences: ^2.0.6
-  kiwi: ^3.0.0
   build_runner: ^2.0.6
   flutter_bloc: ^8.0.1
   http: ^0.13.4

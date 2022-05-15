@@ -13,6 +13,6 @@ class WidgetConstants {
 
 
   // Keys
-  static const appBarKey = ValueKey('coins_history_app_bar_key');
+  static const appBarKey = ValueKey('widget_constant_app_bar_key');
 
 }
